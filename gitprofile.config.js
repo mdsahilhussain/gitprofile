@@ -2,44 +2,43 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'mdsahilhussain', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['laravel-ecommerce'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'm-sahil-hussain-75b5181a6',
+    twitter: 'MdSahil90731384',
     facebook: '',
-    dribbble: '',
-    behance: '',
-    medium: '',
-    dev: 'arifszn',
-    website: 'https://arifszn.github.io',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    dribbble: 'msahilhussain',
+    behance: 'msahilhussain',
+    medium: 'msahilhussain',
+    dev: '',
+    website: '',
+    phone: '+91-6200083799',
+    email: 'mdsahil.hussain7@gmail.com',
   },
   skills: [
-    'PHP',
-    'Laravel',
     'JavaScript',
     'React.js',
-    'Node.js',
-    'MySQL',
+    'Redux,
     'Git',
-    'Docker',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Material-UI',
     'Bootstrap',
+    'Wireframing and UI prototyping',
+    'UX writing',
+    'Design tools: Figma and Photoshop',
+    'Graphic/print design skills',
   ],
   experiences: [
     {
-      company: 'Monstarlab Bangladesh',
-      position: 'Backend Engineer II',
+      company: 'MindZenx',
+      position: 'Font-End Developer',
       from: 'September 2021',
       to: 'Present',
     },
