@@ -43,33 +43,27 @@ const config = {
       to: 'Present',
     },
     {
-      company: 'Orangetoolz',
-      position: 'Jr. Full Stack Engineer',
-      from: 'July 2019',
+      company: 'xyz',
+      position: 'Full Stack Engineer',
+      from: 'July 2020',
       to: 'August 2021',
-    },
-    {
-      company: 'Techvillage',
-      position: 'Jr. Software Engineer',
-      from: 'January 2019',
-      to: ' June 2019',
     },
   ],
   education: [
     {
-      institution: 'American International University-Bangladesh',
+      institution: 'abcd',
       degree: 'Bachelor of Science',
       from: '2015',
       to: '2019',
     },
     {
-      institution: 'Cantonment College, Jessore',
+      institution: 'avcd',
       degree: 'Higher Secondary Certificate (HSC)',
       from: '2012',
       to: '2014',
     },
     {
-      institution: 'Chowgacha Shahadat Pilot High School',
+      institution: 'School',
       degree: 'Secondary School Certificate (SSC)',
       from: '2007',
       to: '2012',
@@ -77,16 +71,16 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn',
+    source: 'medium', // medium | dev
+    username: 'msahilhussain',
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-    id: 'G-WLLB5E14M6', // Please remove this and use your own tag id or keep it empty
+    id: '', // Please remove this and use your own tag id or keep it empty
   },
   hotjar: {
-    id: '2617601', //  Please remove this and use your own id or keep it empty
+    id: '', //  Please remove this and use your own id or keep it empty
     snippetVersion: 6,
   },
   themeConfig: {
