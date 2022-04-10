@@ -25,7 +25,7 @@ const config = {
   skills: [
     'JavaScript',
     'React.js',
-    'Redux,
+    'Redux',
     'Git',
     'CSS',
     'Material-UI',
