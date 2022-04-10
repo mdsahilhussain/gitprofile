@@ -39,34 +39,34 @@ const config = {
     {
       company: 'MindZenx',
       position: 'Font-End Developer',
-      from: 'September 2021',
+      from: 'January 2022',
       to: 'Present',
     },
     {
-      company: 'xyz',
-      position: 'Full Stack Engineer',
-      from: 'July 2020',
-      to: 'August 2021',
+      company: 'LetsGrowMore',
+      position: 'Web Development Intern',
+      from: 'August 2021',
+      to: 'September 2021',
     },
   ],
   education: [
     {
-      institution: 'abcd',
-      degree: 'Bachelor of Science',
-      from: '2015',
-      to: '2019',
+      institution: 'Darbhanga College of Engineering, Darbhanga',
+      degree: 'Bachelor of Technology',
+      from: '2018',
+      to: '2022',
     },
     {
-      institution: 'avcd',
+      institution: 'Scottish Public School, Katihar',
       degree: 'Higher Secondary Certificate (HSC)',
-      from: '2012',
-      to: '2014',
+      from: '2016',
+      to: '2018',
     },
     {
-      institution: 'School',
+      institution: 'Ramakrishna Mission Vidyamandir',
       degree: 'Secondary School Certificate (SSC)',
-      from: '2007',
-      to: '2012',
+      from: '2006',
+      to: '2016',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -84,7 +84,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'corporate',
+    defaultTheme: 'night',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
