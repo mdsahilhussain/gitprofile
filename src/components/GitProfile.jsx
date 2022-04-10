@@ -195,23 +195,23 @@ const GitProfile = ({ config }) => {
               {/* DO NOT REMOVE/MODIFY THE BELOW FOOTER. */}
               {/* SEE 4(C) SECTION OF THE LICENSE FOR MORE DETAILS. */}
               {/* https://github.com/arifszn/gitprofile/blob/main/LICENSE */}
-              <footer className="p-4 footer bg-base-200 text-base-content footer-center">
-                <div className="card compact bg-base-100 shadow">
-                  <a
-                    className="card-body"
-                    href="https://github.com/arifszn/gitprofile"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <div>
-                      <p className="font-mono text-sm">
-                        Made with{' '}
-                        <span className="text-primary">GitProfile</span> and ❤️
-                      </p>
-                    </div>
-                  </a>
-                </div>
-              </footer>
+//               <footer className="p-4 footer bg-base-200 text-base-content footer-center">
+//                 <div className="card compact bg-base-100 shadow">
+//                   <a
+//                     className="card-body"
+//                     href="https://github.com/arifszn/gitprofile"
+//                     target="_blank"
+//                     rel="noreferrer"
+//                   >
+//                     <div>
+//                       <p className="font-mono text-sm">
+//                         Made with{' '}
+//                         <span className="text-primary">GitProfile</span> and ❤️
+//                       </p>
+//                     </div>
+//                   </a>
+//                 </div>
+//               </footer>
             </Fragment>
           )
         )}
